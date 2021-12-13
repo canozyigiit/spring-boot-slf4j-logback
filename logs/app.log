@@ -1,0 +1,102 @@
+2021-12-13 10:27:49,576 DEBUG com.can.springbootslf4jlogback.HelloController [http-nio-8080-exec-5] Hello from Logback [1, 2, 3, 4, 5]
+2021-12-13 10:27:49,576 DEBUG com.can.springbootslf4jlogback.HelloController [http-nio-8080-exec-5] Hello from Logback
+2021-12-13 10:27:49,577 INFO com.can.springbootslf4jlogback.HelloController [http-nio-8080-exec-5] Test
+2021-12-13 10:28:10,559 DEBUG com.can.springbootslf4jlogback.HelloController [http-nio-8080-exec-6] Hello from Logback [1, 2, 3, 4, 5]
+2021-12-13 10:28:10,559 DEBUG com.can.springbootslf4jlogback.HelloController [http-nio-8080-exec-6] Hello from Logback
+2021-12-13 10:28:10,560 INFO com.can.springbootslf4jlogback.HelloController [http-nio-8080-exec-6] Test
+2021-12-13 10:28:16,599 DEBUG com.can.springbootslf4jlogback.HelloController [http-nio-8080-exec-7] Hello from Logback [1, 2, 3, 4, 5]
+2021-12-13 10:28:16,600 DEBUG com.can.springbootslf4jlogback.HelloController [http-nio-8080-exec-7] Hello from Logback
+2021-12-13 10:28:16,600 INFO com.can.springbootslf4jlogback.HelloController [http-nio-8080-exec-7] Test
+2021-12-13 10:28:26,421 DEBUG com.can.springbootslf4jlogback.HelloController [http-nio-8080-exec-8] Hello from Logback [1, 2, 3, 4, 5]
+2021-12-13 10:28:26,421 DEBUG com.can.springbootslf4jlogback.HelloController [http-nio-8080-exec-8] Hello from Logback
+2021-12-13 10:28:26,421 INFO com.can.springbootslf4jlogback.HelloController [http-nio-8080-exec-8] Test
+2021-12-13 10:29:19,467 INFO com.can.springbootslf4jlogback.SpringBootSlf4jLogbackApplication [main] Starting SpringBootSlf4jLogbackApplication using Java 11.0.12 on 2064nb with PID 18604 (D:\MyProject\spring-boot-slf4j-logback\target\classes started by P2064 in D:\MyProject\spring-boot-slf4j-logback)
+2021-12-13 10:29:19,472 DEBUG com.can.springbootslf4jlogback.SpringBootSlf4jLogbackApplication [main] Running with Spring Boot v2.6.1, Spring v5.3.13
+2021-12-13 10:29:19,472 INFO com.can.springbootslf4jlogback.SpringBootSlf4jLogbackApplication [main] No active profile set, falling back to default profiles: default
+2021-12-13 10:29:21,621 INFO com.can.springbootslf4jlogback.SpringBootSlf4jLogbackApplication [main] Started SpringBootSlf4jLogbackApplication in 2.924 seconds (JVM running for 7.052)
+2021-12-13 10:29:35,061 DEBUG com.can.springbootslf4jlogback.HelloController [http-nio-8080-exec-1] Hello from Logback [1, 2, 3, 4, 5]
+2021-12-13 10:29:35,063 DEBUG com.can.springbootslf4jlogback.HelloController [http-nio-8080-exec-1] Hello from Logback
+2021-12-13 10:29:35,063 INFO com.can.springbootslf4jlogback.HelloController [http-nio-8080-exec-1] Test
+2021-12-13 10:35:14,953 INFO com.can.springbootslf4jlogback.SpringBootSlf4jLogbackApplication [main] Starting SpringBootSlf4jLogbackApplication using Java 11.0.12 on 2064nb with PID 10468 (D:\MyProject\spring-boot-slf4j-logback\target\classes started by P2064 in D:\MyProject\spring-boot-slf4j-logback)
+2021-12-13 10:35:14,958 DEBUG com.can.springbootslf4jlogback.SpringBootSlf4jLogbackApplication [main] Running with Spring Boot v2.6.1, Spring v5.3.13
+2021-12-13 10:35:14,958 INFO com.can.springbootslf4jlogback.SpringBootSlf4jLogbackApplication [main] No active profile set, falling back to default profiles: default
+2021-12-13 10:35:16,554 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat initialized with port(s): 8080 (http)
+2021-12-13 10:35:16,569 INFO org.apache.coyote.http11.Http11NioProtocol [main] Initializing ProtocolHandler ["http-nio-8080"]
+2021-12-13 10:35:16,570 INFO org.apache.catalina.core.StandardService [main] Starting service [Tomcat]
+2021-12-13 10:35:16,570 INFO org.apache.catalina.core.StandardEngine [main] Starting Servlet engine: [Apache Tomcat/9.0.55]
+2021-12-13 10:35:16,699 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [main] Initializing Spring embedded WebApplicationContext
+2021-12-13 10:35:16,700 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [main] Root WebApplicationContext: initialization completed in 1626 ms
+2021-12-13 10:35:17,202 INFO org.apache.coyote.http11.Http11NioProtocol [main] Starting ProtocolHandler ["http-nio-8080"]
+2021-12-13 10:35:17,225 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat started on port(s): 8080 (http) with context path ''
+2021-12-13 10:35:17,248 INFO com.can.springbootslf4jlogback.SpringBootSlf4jLogbackApplication [main] Started SpringBootSlf4jLogbackApplication in 3.073 seconds (JVM running for 7.745)
+2021-12-13 10:35:33,087 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [http-nio-8080-exec-2] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-12-13 10:35:33,088 INFO org.springframework.web.servlet.DispatcherServlet [http-nio-8080-exec-2] Initializing Servlet 'dispatcherServlet'
+2021-12-13 10:35:33,089 INFO org.springframework.web.servlet.DispatcherServlet [http-nio-8080-exec-2] Completed initialization in 0 ms
+2021-12-13 10:35:33,115 DEBUG com.can.springbootslf4jlogback.HelloController [http-nio-8080-exec-2] Hello from Logback [1, 2, 3, 4, 5]
+2021-12-13 10:35:33,116 DEBUG com.can.springbootslf4jlogback.HelloController [http-nio-8080-exec-2] Hello from Logback
+2021-12-13 10:35:33,117 INFO com.can.springbootslf4jlogback.HelloController [http-nio-8080-exec-2] Test
+2021-12-13 10:44:28,367 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat initialized with port(s): 8080 (http)
+2021-12-13 10:44:28,383 INFO org.apache.coyote.http11.Http11NioProtocol [main] Initializing ProtocolHandler ["http-nio-8080"]
+2021-12-13 10:44:28,384 INFO org.apache.catalina.core.StandardService [main] Starting service [Tomcat]
+2021-12-13 10:44:28,384 INFO org.apache.catalina.core.StandardEngine [main] Starting Servlet engine: [Apache Tomcat/9.0.55]
+2021-12-13 10:44:28,537 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [main] Initializing Spring embedded WebApplicationContext
+2021-12-13 10:44:28,537 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [main] Root WebApplicationContext: initialization completed in 1957 ms
+2021-12-13 10:44:29,154 INFO org.apache.coyote.http11.Http11NioProtocol [main] Starting ProtocolHandler ["http-nio-8080"]
+2021-12-13 10:44:29,181 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat started on port(s): 8080 (http) with context path ''
+2021-12-13 10:44:43,724 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [http-nio-8080-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-12-13 10:44:43,724 INFO org.springframework.web.servlet.DispatcherServlet [http-nio-8080-exec-1] Initializing Servlet 'dispatcherServlet'
+2021-12-13 10:44:43,725 INFO org.springframework.web.servlet.DispatcherServlet [http-nio-8080-exec-1] Completed initialization in 1 ms
+2021-12-13 10:45:03,682 ERROR com.can.springbootslf4jlogback.HelloController [http-nio-8080-exec-3] {}
+java.lang.IllegalArgumentException: Sorry IllegalArgumentException!
+	at com.can.springbootslf4jlogback.HelloController.getData(HelloController.java:41)
+	at com.can.springbootslf4jlogback.HelloController.getError(HelloController.java:32)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:205)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:150)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:117)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:895)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:808)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1067)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:963)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:898)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:655)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:764)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:227)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:197)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:540)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:135)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:357)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:382)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:895)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1722)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:834)
